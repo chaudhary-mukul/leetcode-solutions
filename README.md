@@ -37,33 +37,12 @@ src
 
 ---
 
-## ✨ Naming Convention
-
-Each solution follows the format:
-
-```
-LC_0001_TwoSum.java
-LC_0026_RemoveDuplicatesFromSortedArray.java
-LC_0189_RotateArray.java
-```
-
----
-
 ## 📈 Progress
 
 - ✅ Problems Solved: **17**
 - ☕ Language: **Java**
 
 > This count will be updated as I solve more problems.
-
----
-
-## 🚀 Goals
-
-- Solve 300+ LeetCode problems
-- Strengthen DSA concepts
-- Improve coding consistency
-- Prepare for coding interviews
 
 ---
 
