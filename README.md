@@ -86,14 +86,4 @@ Each solution includes:
 
 ---
 
-# ⭐ If you find this repository useful
 
-Give it a ⭐ on GitHub.
-
----
-
-<div align="center">
-
-Made with ❤️ and Java
-
-</div>
