@@ -1,33 +1,23 @@
-<div align="center">
-
 # 🚀 LeetCode Solutions
 
-### Java Solutions to LeetCode Problems
+Welcome to my LeetCode repository! 👋
 
-Building strong problem-solving skills, one problem at a time.
-
----
-
-# 📖 About
-
-This repository contains my accepted **Java** solutions to LeetCode problems.
-
-The goal is not only to solve problems but also to:
-
-- Improve Data Structures & Algorithms
-- Write clean and readable Java code
-- Learn optimal approaches
-- Prepare for coding interviews
+This repository contains my accepted **Java** solutions to LeetCode problems. It serves as a record of my journey in improving problem-solving skills, mastering Data Structures & Algorithms, and preparing for technical interviews.
 
 ---
 
-#  Language
+## 📌 About
 
-- ☕ Java
+- 💻 Language: **Java**
+- 🧠 Focus: Data Structures & Algorithms
+- 📚 Goal: Build strong problem-solving skills through consistent practice
+- 🎯 Preparing for Software Engineering interviews
 
 ---
 
-# 📂 Repository Structure
+## 📂 Repository Structure
+
+Solutions are organized topic-wise for easier revision.
 
 ```
 src
@@ -45,7 +35,40 @@ src
 └── trees
 ```
 
+---
 
+## ✨ Naming Convention
 
+Each solution follows the format:
 
+```
+LC_0001_TwoSum.java
+LC_0026_RemoveDuplicatesFromSortedArray.java
+LC_0189_RotateArray.java
+```
 
+---
+
+## 📈 Progress
+
+- ✅ Problems Solved: **17**
+- ☕ Language: **Java**
+
+> This count will be updated as I solve more problems.
+
+---
+
+## 🚀 Goals
+
+- Solve 300+ LeetCode problems
+- Strengthen DSA concepts
+- Improve coding consistency
+- Prepare for coding interviews
+
+---
+
+## 📝 Note
+
+This repository is continuously updated as I solve new problems and learn better approaches.
+
+⭐ Thanks for visiting!
