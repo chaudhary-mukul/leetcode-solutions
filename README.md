@@ -37,14 +37,6 @@ src
 
 ---
 
-## 📈 Progress
-
-- ✅ Problems Solved: **17**
-- ☕ Language: **Java**
-
-> This count will be updated as I solve more problems.
-
----
 
 ## 📝 Note
 
